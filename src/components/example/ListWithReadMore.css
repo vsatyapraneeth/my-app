@@ -1,0 +1,26 @@
+/* src/ListWithReadMore.css */
+
+.toggle-button {
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+    padding: 10px;
+  }
+  
+  .read-more {
+    color: rgba(63, 232, 63, 0.895);
+  }
+  
+  .read-more:hover {
+    color: darkgreen;
+  }
+  
+  .read-less {
+    color: blue;
+  }
+  
+  .read-less:hover {
+    color: darkblue;
+  }
+  
